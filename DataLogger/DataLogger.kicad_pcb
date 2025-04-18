@@ -85,6 +85,10 @@
 			(outputdirectory "")
 		)
 	)
+	(property "Author" "Nour Mohamed")
+	(property "ID" "1473101251203")
+	(property "Title" "DataLogger")
+	(property "Version" "V1.0")
 	(net 0 "")
 	(net 1 "/XTAL1")
 	(net 2 "GND")
@@ -9844,20 +9848,20 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "F.SilkS")
-		(uuid "7eec7cb0-7b5b-444f-aa49-2ec4aba30bc4")
+		(layer "User.1")
+		(uuid "398c0b54-8535-4216-af2f-3676289e2ecd")
 		(pts
-			(xy 194.9196 142.5956) (xy 194.7672 74.168)
+			(xy 191.77 145.6944) (xy 116.9416 145.6944)
 		)
 		(height 0)
-		(gr_text "68.4278 mm"
-			(at 195.943397 108.37935 -89.87239268)
-			(layer "F.SilkS")
-			(uuid "7eec7cb0-7b5b-444f-aa49-2ec4aba30bc4")
+		(gr_text "74.8284 mm"
+			(at 154.3558 144.5444 0)
+			(layer "User.1")
+			(uuid "398c0b54-8535-4216-af2f-3676289e2ecd")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9877,20 +9881,20 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "F.SilkS")
-		(uuid "fb217aa3-c1bd-4255-a8c5-7950da2a4432")
+		(layer "User.1")
+		(uuid "3f0a3f64-5ba9-49b5-b819-06f4d9d0dbaf")
 		(pts
-			(xy 191.7192 148.082) (xy 116.8908 148.1328)
+			(xy 199.0344 74.1172) (xy 199.0344 142.5956)
 		)
 		(height 0)
-		(gr_text "74.8284 mm"
-			(at 154.304253 147.0074 0.03889733246)
-			(layer "F.SilkS")
-			(uuid "fb217aa3-c1bd-4255-a8c5-7950da2a4432")
+		(gr_text "68.4784 mm"
+			(at 197.8844 108.3564 90)
+			(layer "User.1")
+			(uuid "3f0a3f64-5ba9-49b5-b819-06f4d9d0dbaf")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.1)
+					(thickness 0.15)
 				)
 			)
 		)
